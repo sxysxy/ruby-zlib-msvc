@@ -1,0 +1,9 @@
+*.exp
+*.def
+*.tlog
+*.log
+*.lst
+*.pdb
+.vs
+*.ipdb
+*.iobj
